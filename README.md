@@ -2,7 +2,7 @@
 
 ## Description
 
-This password generator was given as a starter code for practice on writing functions and window alerts. 
+This password generator was given as an initial javascript starter code for practice on writing functions and window alerts. This project also serves as good practice for navigating through the document object model flow, applying mathematics logics in method coding, and learning to look up available methods to use in javascript. This was a complex logic puzzle that required multiple levels of pseudocode and logic that required a lot of navigation to solve.
 
 ## Usage
 
